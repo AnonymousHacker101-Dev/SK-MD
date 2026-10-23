@@ -1,0 +1,25 @@
+{
+  "bot": {
+    "mode": "self"
+  },
+  "13252318920@s.whatsapp.net": {
+    "feature.autoreply": true
+  },
+  "13252318920@s.whatsapp.net": {
+    "autoViewStatus": true
+  },
+  "13252318920@s.whatsapp.net": {
+    "autoViewStatus": true
+  },
+  "13252318920@lid": {
+    "feature.autoreply": true,
+    "feature.antibadword": true
+  },
+  "13252318920@s.whatsapp.net": {
+    "autoViewStatus": true,
+    "autobio": true
+  },
+  "13252318920@s.whatsapp.net": {
+    "banned": false
+  }
+}
